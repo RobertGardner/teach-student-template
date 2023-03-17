@@ -5,7 +5,7 @@
     "browser": true
   },
   "parserOptions": {
-    "ecmaVersion": 2015
+    "ecmaVersion": 2023
   },
   "extends": [
     "plugin:react/recommended",
@@ -19,23 +19,12 @@
     }
   },
   "rules": {
-    "arrow-parens": [
-      "error",
-      "as-needed"
-    ],
+    "arrow-parens":"off",
     "curly": [
       "error",
       "multi-line"
     ],
-    "no-console": [
-      "error",
-      {
-        "allow": [
-          "warn",
-          "error"
-        ]
-      }
-    ],
+    "no-console": "off",
     "no-restricted-globals": [
       "error",
       {
