@@ -82,7 +82,7 @@ The exercise materials will be distributed using an appropriate file sharing too
 
 The exercise folder will contain all the materials necessary for completing the exercise. Included in the materials will be a folder named `instructions`, which contains the instructions for the exercise.
 
-The student can read the exercise instructions by opening the exercise folder in VS Code, then opening the `instructions` folder, and finally right-clicking `README.md` and choosing "Open Preview".
+The student can read the exercise instructions by opening the exercise folder in VS Code, then opening the `instructions` folder, and finally right-clicking `README.md` and choosing "Open Preview". The original `README.md` tab can then be closed. If it is easier to have the instructions in a separate window, open the file in VS Code, then right-click the `README.md` tab and choose "Move into New Window". In the new window, open the preview.
 
 Before starting work on an exercise, create a `git` branch for the exercise solution. A branch can be easily created in VS Code either by choosing "Branch > Create Branch..." in the Source Control panel, or by clicking the branch name in the lower-left corner of the VS Code window. While the name of the branch can be arbitrary, it is recommended that the branch name match the exercise name.
 
