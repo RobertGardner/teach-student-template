@@ -20,6 +20,7 @@ The following tools are required for this class:
 - [Node and NPM](https://nodejs.org)
   - Optional: Use [NVM](https://github.com/nvm-sh/nvm) for installing and managing Node and NPM versions
 - [git](https://git-scm.com/) and a [GitHub](https://github.com/) account for version control. `git` is installed with Node. The student must create a `GitHub` account and set up SSH.
+- [HTTPie](https://httpie.io/docs#usage) for making HTTP requests to external and student-built APIs. This requires a separate install depending on OS. (We suggest `homebrew` on Mac since it has a larger community.)
 - [PostgreSQL](https://www.postgresql.org/) database management system. Unfortunately, this can be a challenge to set up. On Mac, a simple but effective tool is the [Postgres app](https://postgresapp.com).
 
 In addition, the course uses various linting and code formatting tools to simplify instruction. These tools are commonly used in the industry, and the rules that are applied in this course are similar to those used at many companies. Those tools are:
